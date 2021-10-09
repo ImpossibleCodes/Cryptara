@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169293268726",
+    "project_id": "cryptara-6d1fd",
+    "storage_bucket": "cryptara-6d1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169293268726:android:9ae1cd0ff0adc4e1cb4ed7",
+        "android_client_info": {
+          "package_name": "com.neilagrawal.cryptara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169293268726-85eevci100hsfprv8q2s9mirnu8gua3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neilagrawal.cryptara",
+            "certificate_hash": "dbae83cf1a743dae5ecd9c2c9b00b9c4444a6d29"
+          }
+        },
+        {
+          "client_id": "169293268726-di9n7jfobbefgoq0lmr41tnsvaj83uui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezSxnH0_F_CYqFiP9K3HFN3QzLb9hF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169293268726-di9n7jfobbefgoq0lmr41tnsvaj83uui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
